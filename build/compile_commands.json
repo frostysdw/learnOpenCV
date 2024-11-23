@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/frostbo/share/learnOpenCV/build",
+  "command": "/usr/bin/clang++ -I/usr/include/opencv4 -g -o CMakeFiles/quickdemo.dir/src/quickdemo.cpp.o -c /home/frostbo/share/learnOpenCV/src/quickdemo.cpp",
+  "file": "/home/frostbo/share/learnOpenCV/src/quickdemo.cpp"
+},
+{
+  "directory": "/home/frostbo/share/learnOpenCV/build",
+  "command": "/usr/bin/clang++ -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/frostbo/share/learnOpenCV/main.cpp",
+  "file": "/home/frostbo/share/learnOpenCV/main.cpp"
+}
+]

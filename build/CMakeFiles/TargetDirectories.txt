@@ -1,0 +1,4 @@
+/home/frostbo/share/learnOpenCV/build/CMakeFiles/quickdemo.dir
+/home/frostbo/share/learnOpenCV/build/CMakeFiles/main.dir
+/home/frostbo/share/learnOpenCV/build/CMakeFiles/edit_cache.dir
+/home/frostbo/share/learnOpenCV/build/CMakeFiles/rebuild_cache.dir

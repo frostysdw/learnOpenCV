@@ -1,0 +1,7 @@
+# ninja log v5
+2	2515	1732329046608837225	CMakeFiles/main.dir/main.cpp.o	41605be3d40bd34e
+3087	3876	1732330147031190923	main	65b45285b6f2bd46
+6	3711	1732192754665580602	CMakeFiles/main.dir/quickdemo.cpp.o	14e3fbf6bebbfceb
+1	3029	1732330146184204098	CMakeFiles/quickdemo.dir/src/quickdemo.cpp.o	b4c201d181c8bf3e
+2	2738	1732193076060944515	CMakeFiles/main.dir/src/quickdemo.cpp.o	323dd700d406cbcd
+3029	3087	1732330146249203086	libquickdemo.a	e000f502127d6d9c
