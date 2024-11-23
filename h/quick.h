@@ -7,8 +7,9 @@ using namespace cv;
 
 class QuickDemo{
 public:
-    void colorSpace_Demo(Mat &image);
-    void matCreation_Demo(Mat &image);
+    void color_Space_Demo(Mat &image);      //图像颜色转换
+    void mat_Creation_Demo(Mat &image);     //图像创建赋值 
+    void pixel_Visit_Demo(Mat &image);      //图像像素读写
 };
 
 #endif

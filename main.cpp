@@ -20,11 +20,12 @@ int main(int, char**){
         cout << "确定图片位置" << endl;
         return -1;
     }
-   // imshow("输入窗口", img);
+    imshow("输入窗口", img);
 
     QuickDemo qd;
-    //qd.colorSpace_Demo(img);
-    qd.matCreation_Demo(img);
+    //qd.color_Space_Demo(img);
+    //qd.mat_Creation_Demo(img);
+    qd.pixel_Visit_Demo(img);
 
     waitKey(0); //阻塞窗口 0 一直显示
     destroyAllWindows(); //销毁所有窗口
